@@ -1,0 +1,30 @@
+{
+  "name": "guitar-pro",
+  "version": "0.1.0",
+  "description": "The coolest cortex module.",
+  "main": "index.js",
+  "repository": "git://github.com/supersheep/guitar-pro.git",
+  "keywords": [
+    "guitar",
+    "music",
+    "converter",
+    "binary",
+    "multi-media",
+    "guitar-pro"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "supersheep",
+    "email": "supersheepxjy@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/supersheep/guitar-pro/issues"
+  },
+  "homepage": "http://github.com/supersheep/guitar-pro",
+  "devDependencies": {
+    "assert": "*"
+  },
+  "dependencies": {
+    "guid": "^0.0.12"
+  }
+}
